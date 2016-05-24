@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name='yatank-online',
-      version='0.0.9',
+      version='0.0.10',
       description='Yandex.Tank OnlineReport plugin',
       author='Alexey Lavrenuke',
       author_email='direvius@gmail.com',
